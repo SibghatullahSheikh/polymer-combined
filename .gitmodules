@@ -1,0 +1,39 @@
+[submodule "projects"]
+	path = projects
+	url = git://github.com/Polymer/projects.git
+[submodule "polymer"]
+	path = polymer
+	url = git://github.com/Polymer/polymer.git
+[submodule "platform"]
+	path = platform
+	url = git://github.com/Polymer/platform.git
+[submodule "HTMLImports"]
+	path = HTMLImports
+	url = git://github.com/Polymer/HTMLImports.git
+[submodule "CustomElements"]
+	path = CustomElements
+	url = git://github.com/Polymer/CustomElements.git
+[submodule "PointerGestures"]
+	path = PointerGestures
+	url = git://github.com/Polymer/PointerGestures.git
+[submodule "mdv"]
+	path = mdv
+	url = git://github.com/Polymer/mdv.git
+[submodule "toolkit-ui"]
+	path = toolkit-ui
+	url = git://github.com/Polymer/toolkit-ui
+[submodule "more-elements"]
+	path = more-elements
+	url = git://github.com/Polymer/more-elements
+[submodule "PointerEvents"]
+	path = PointerEvents
+	url = git://github.com/Polymer/PointerEvents
+[submodule "polymer-ui-elements"]
+	path = polymer-ui-elements
+	url = git://github.com/Polymer/polymer-ui-elements
+[submodule "polymer-elements"]
+	path = polymer-elements
+	url = git://github.com/Polymer/polymer-elements
+[submodule "web-animations-js"]
+	path = web-animations-js
+	url = git://github.com/web-animations/web-animations-js
